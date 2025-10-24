@@ -35,8 +35,3 @@ It is lightweight, responsive, and designed for smooth performance on both deskt
 ### **Domain**
 
 [https://jeni-johnson7.github.io/IBM-FE-Real-Time-Stock-Ticker](https://jeni-johnson7.github.io/IBM-FE-Real-Time-Stock-Ticker)
-
-
-
-
-Would you like me to create a **PDF version** of this (same layout as your NewsHub example)?
